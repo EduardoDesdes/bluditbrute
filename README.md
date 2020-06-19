@@ -14,6 +14,14 @@ $$$$$$$  |$$ |\$$$$$$  |\$$$$$$$ |$$ |  \$$$$  |$$$$$$$  |$$ |      \$$$$$$  |  
 \_______/ \__| \______/  \_______|\__|   \____/ \_______/ \__|       \______/    \____/  \_______|
 
 usage: bluditbrute.py [-h] --url URL --user USER --file FILE
-bluditbrute.py: error: the following arguments are required: --url/-u, --user/-U, --file/-F
+
+Bludit bruteforce
+
+optional arguments:
+  -h, --help            show this help message and exit
+  --url URL, -u URL     url del panel de administracion
+  --user USER, -U USER  nombre de usuario valido
+  --file FILE, -F FILE  lista de posibles passwords
+
 
 ```
