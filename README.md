@@ -1,4 +1,8 @@
-"""
+# BuditBrute
+
+A tool to bruteforce for Bludit CMS
+
+```
 
 $$$$$$$\  $$\                 $$\ $$\   $$\     $$$$$$$\                        $$\               
 $$  __$$\ $$ |                $$ |\__|  $$ |    $$  __$$\                       $$ |              
@@ -12,4 +16,4 @@ $$$$$$$  |$$ |\$$$$$$  |\$$$$$$$ |$$ |  \$$$$  |$$$$$$$  |$$ |      \$$$$$$  |  
 usage: bluditbrute.py [-h] --url URL --user USER --file FILE
 bluditbrute.py: error: the following arguments are required: --url/-u, --user/-U, --file/-F
 
-"""
+```
