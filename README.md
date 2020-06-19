@@ -1,6 +1,6 @@
 # BuditBrute
 
-A tool to bruteforce for Bludit CMS
+A brute force tool for Bludit CMS
 
 ```
 
